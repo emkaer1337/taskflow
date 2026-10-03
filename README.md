@@ -1,0 +1,2 @@
+# RendszerFejlesztes
+Git repo csoportmunkára
